@@ -1,0 +1,7 @@
+[package]
+name = "ising"
+version = "0.1.0"
+authors = ["ToruNiina <niina.toru.68u@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
